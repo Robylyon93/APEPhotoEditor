@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APE Photo Editor</string>
+    <string name="open_camera">Take picture!</string>
+    <string name="open_gallery">Pick a picture from gallery!</string>
+</resources>
